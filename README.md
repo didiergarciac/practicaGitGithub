@@ -2,7 +2,7 @@
 
 > Este repositorio fue creado con el proposito de practicar y almacenar los ejercicios propuestos durante el curso que realicé sobre Git y GitHUb en la plataforma Platzi. En el almacené cada ejercicio, comando e información generada durante dicho curso.
 
-##Temas vistos
+# Temas vistos
 
 > - Diccionario de comandos a utilizar en git.
 > - La función que cumple cada comando.
