@@ -22,3 +22,4 @@
 > - Git Stash.
 > - Git cherry-pick.
 > - Creación del Readme.
+> - Reconstruir commit con amend.
