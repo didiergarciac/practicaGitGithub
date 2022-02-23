@@ -14,3 +14,10 @@
 > - Crear un fork, contribuir a un repositorio público.
 > - Para que sirve el archivo gitgnore.
 > - Flujo de trabajo en github.
+
+# Algunos comandos practicados
+
+> - Git rebase.
+> - Git clean.
+> - Git Stash.
+> - Git cherry-pick.
