@@ -15,9 +15,10 @@
 > - Para que sirve el archivo gitgnore.
 > - Flujo de trabajo en github.
 
-# Algunos comandos practicados
+# Algunos otros temas practicados
 
 > - Git rebase.
 > - Git clean.
 > - Git Stash.
 > - Git cherry-pick.
+> - Creación del Readme.
